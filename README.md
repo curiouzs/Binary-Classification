@@ -1,6 +1,6 @@
 # EXP. NO: 02
 
-# DATE: 
+# DATE: 04.11.22
 
 
 # <p align = "center"> BINARY CLASSIFICATION </p>
