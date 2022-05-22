@@ -1,8 +1,5 @@
-# EXP. NO: 02
-
-# DATE: 04.11.22
-
-
+### EXP. NO: 02
+### DATE: 04.04.22
 # <p align = "center"> BINARY CLASSIFICATION </p>
 
 ## Aim:
@@ -25,7 +22,6 @@ Binary classification is a form of classification — the process of predicting 
 
 ## Program:
 ```python
-
 #Program to implement binary classification.
 #Developed by: LOKESH KRISHNAA M 
 #Register Number: 212220230030
@@ -49,8 +45,6 @@ pyplot.legend()
 
 ## Output:
 <img width="320" alt="exp2" src="https://user-images.githubusercontent.com/75234646/165084426-0f3da5bd-634a-4cad-a2d0-7adbb52487ee.png">
-
-
 
 ## Result:
 Thus the python program performed binary classification successfully.
