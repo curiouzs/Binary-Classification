@@ -15,11 +15,11 @@ Binary classification is a form of classification — the process of predicting 
 
 ## Algorithm
 
-1.Import the necessary modules.
-2.Create the Dataset using make_blob function.
-3.Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.
+1.Import the necessary modules. <br>
+2.Create the Dataset using make_blob function.<br>
+3.Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.<br>
 4.Plot the row values in the graph.
-
+<br><br>
 ## Program:
 ```python
 #Program to implement binary classification.
