@@ -18,6 +18,7 @@ Binary classification is a form of classification — the process of predicting 
 2.Create the Dataset using make_blob function.<br>
 3.Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.<br>
 4.Plot the row values in the graph.
+
 <br>
 <br>
 <br>
